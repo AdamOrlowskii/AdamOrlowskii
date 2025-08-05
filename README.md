@@ -26,7 +26,7 @@
   <tr>
     <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamOrlowskii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="AdamOrlowskii" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdamOrlowskii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=c" alt="AdamOrlowskii" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=AdamOrlowskii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="AdamOrlowskii" />
 <br>
