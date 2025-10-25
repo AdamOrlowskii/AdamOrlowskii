@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Adam Orłowski 👋</h1>
 <h3 align="center">I study Computer engineering at Wrocław University of Science and Technology.</h3>
-<h5 align="center">I'm interested in machine learning and the ways AI can solve real-world problems.</h5>
+<h5 align="center">I'm interested in web dev, machine learning and the ways AI can solve real-world problems.</h5>
 
 <br>
 
