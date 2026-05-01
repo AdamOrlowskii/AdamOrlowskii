@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Focus-Backend%20AI%20Engineering-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Location-Poland-red?style=for-the-badge" />
 
-<a href="https://www.linkedin.com/in/TWOJ_PROFIL/" target="_blank">
+<a href="[https://www.linkedin.com/in/TWOJ_PROFIL/](https://www.linkedin.com/in/adam-orlowski-5b56a531a/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a><span></span>
 
